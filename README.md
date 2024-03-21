@@ -1,4 +1,4 @@
-![image](https://github.com/itsahmedmohamedamin/Retail-Product-Sales-Analytics/assets/50253297/e23aa661-cadc-49d6-b9d4-d2aca5c9b843)**Below is a synthesized overview of the insights derived from the data visualizations crafted from the dataset**
+**Below is a synthesized overview of the insights derived from the data visualizations crafted from the dataset**
 
 **1- Number of Sales Made per customer for each country**
 ![image](https://github.com/itsahmedmohamedamin/Retail-Product-Sales-Analytics/assets/50253297/3c4b637e-49e9-4942-8d7e-324bee173a8a)

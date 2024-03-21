@@ -66,6 +66,7 @@
 > Secondary Markets: Countries like Germany and France appear to be secondary markets, with a notable number of orders but substantially fewer than the UK.
 
 **11- Unique customers in each country without UK**
+![image](https://github.com/itsahmedmohamedamin/Retail-Product-Sales-Analytics/assets/50253297/99e1c7b9-71fb-4f8b-8456-cf9d76102d15)
 > Secondary Markets: Countries like Germany and France are the next in line with a considerable number of orders, indicating these are important secondary markets for the business.
 
 > Global Reach: The business has a global customer base, with orders coming from various countries across Europe, as well as some from outside Europe, like Australia and the USA.

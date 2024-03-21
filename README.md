@@ -2,8 +2,9 @@
 
 **1- Number of Sales Made per customer for each country**
 ![image](https://github.com/itsahmedmohamedamin/Retail-Product-Sales-Analytics/assets/50253297/3c4b637e-49e9-4942-8d7e-324bee173a8a)
-Top Customers: The customer with the CustomerID 17841 from the United Kingdom has the highest number of sales transactions (7847), which is significantly higher than the rest, indicating that this may be a very loyal customer, a reseller, or perhaps a large organization making frequent purchases.
-Customer Engagement: There is a wide range in the number of transactions per customer, from 7847 for the top customer to 1637 for the 10th customer on the list. This suggests that there may
+
+> Top Customers: The customer with the CustomerID 17841 from the United Kingdom has the highest number of sales transactions (7847), which is significantly higher than the rest, indicating that this may be a very loyal customer, a reseller, or perhaps a large organization making frequent purchases.
+> Customer Engagement: There is a wide range in the number of transactions per customer, from 7847 for the top customer to 1637 for the 10th customer on the list. This suggests that there may
 
 **2- No. of Sales for all Customers**
 ![image](https://github.com/itsahmedmohamedamin/Retail-Product-Sales-Analytics/assets/50253297/7a50823e-6976-455c-a7f5-cc47c3fb796a)
